@@ -1,0 +1,12 @@
+.MainText {
+    font-size: 30px;
+    display: block;
+    margin: 20px auto;
+    color: black;
+}
+.AdditionText {
+    font-size: 22px;
+    display: block;
+    margin: 20px auto;
+    color: gray;
+}
